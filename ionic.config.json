@@ -1,0 +1,7 @@
+{
+  "name": "Rota Delivery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

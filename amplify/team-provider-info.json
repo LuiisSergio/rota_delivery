@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-projrest-dev-202614-authRole",
+      "UnauthRoleArn": "arn:aws:iam::143917658519:role/amplify-projrest-dev-202614-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::143917658519:role/amplify-projrest-dev-202614-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-projrest-dev-202614-deployment",
+      "UnauthRoleName": "amplify-projrest-dev-202614-unauthRole",
+      "StackName": "amplify-projrest-dev-202614",
+      "StackId": "arn:aws:cloudformation:us-east-1:143917658519:stack/amplify-projrest-dev-202614/402a7480-4a2d-11eb-8903-0ee443750bc7",
+      "AmplifyAppId": "d35owz7iumn62d"
+    }
+  },
+  "rotdeliver": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-projrest-rotdeliver-171548-authRole",
+      "UnauthRoleArn": "arn:aws:iam::143917658519:role/amplify-projrest-rotdeliver-171548-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::143917658519:role/amplify-projrest-rotdeliver-171548-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-projrest-rotdeliver-171548-deployment",
+      "UnauthRoleName": "amplify-projrest-rotdeliver-171548-unauthRole",
+      "StackName": "amplify-projrest-rotdeliver-171548",
+      "StackId": "arn:aws:cloudformation:us-east-1:143917658519:stack/amplify-projrest-rotdeliver-171548/fb010580-4ba4-11eb-9a79-0a9888c17b59",
+      "AmplifyAppId": "d26myv9lf9wt3g"
+    }
+  }
+}

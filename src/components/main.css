@@ -1,0 +1,39 @@
+.login_text {
+    color: rgb(90, 245, 0);
+}
+.select_list {
+    color: rgb(90, 245, 0);
+}
+#map {
+    height: 400px;
+    width: 100%;
+    background-color: grey;
+  }
+.formBox{
+   max-width: 500px;
+   margin: auto;
+   width: 100%; 
+}
+.loginButton{
+    width: 100%
+}
+.mapConfig{
+    margin-top: 76px;
+    
+
+}
+.mapButton{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/*.login_box{
+    border-radius: .5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, -1), 0 4px 6px -2px;
+    padding: 1rem;
+    background-color:slategray;
+    box-sizing: 20px;
+}
+*/
